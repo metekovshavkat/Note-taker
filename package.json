@@ -1,0 +1,28 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "mysql": "^2.17.1",
+    "path": "^0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmscad/NoteTaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pmscad/NoteTaker/issues"
+  },
+  "homepage": "https://github.com/pmscad/NoteTaker#readme",
+  "devDependencies": {}
+}
